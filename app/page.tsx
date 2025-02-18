@@ -1,6 +1,4 @@
 import MaxWidthWrapper from "@/components/MaxWidthWrapper";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
 import { Star, Check } from "lucide-react";
 
 export default function HomePage() {
