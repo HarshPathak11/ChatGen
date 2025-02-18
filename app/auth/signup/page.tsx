@@ -23,7 +23,7 @@ const SignupPage = () => {
     });
     setLoading(false);
     if (res.ok) {
-      router.push('/chat');
+      router.push('/login');
     } else {
       console.error('Signup failed');
     }
